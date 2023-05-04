@@ -145,7 +145,7 @@ body{
     font-size: 14px;
 }
 
-.lista__link a: hover {
+.lista__link a:hover {
     color: var(--botao-azul);
 }
 
